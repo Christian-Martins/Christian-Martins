@@ -1,5 +1,5 @@
 # Bonjour! 👋
-Je suis **Enertix**, je suis francophone et je suis développeur __back-end__!
+Je suis **Enertix**, je suis francophone et je suis un p'tit développeur __back-end__!
 
 # Mes compétences 💫
  ![](https://i.imgur.com/lbz51f9.png)
