@@ -1,7 +1,7 @@
 # Bonjour! 👋
 Je suis **Enertix**, je suis francophone et je suis un p'tit développeur __back-end__!
 
-## Voici quelques informations sur mes projets!
+### Voici quelques informations sur mes projets!
 - 🔨 Je suis actuellement entrain de travailler sur: `Rien de spécial mais des projets par ci par là!`
 - 📚 Je suis entrain d'apprendre `Unreal Engine 4 et React`
 
