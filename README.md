@@ -13,13 +13,7 @@ Je peux réaliser des projets complexes avec NodeJS.
 Je peux également créer des robots sur les réseaux sociaux en utilisant NodeJS.
 
  ![](https://i.imgur.com/jHqJKXy.png)
- - Je maitrise les langages informatiques utilisés pour les sites web
- ( HTML  / CSS  / JS  ) et je maitrise également PHP.
- 
- ![](https://i.imgur.com/RP7ya3J.png)
- - J'exploite avec excellence l'outil Android Studio pour des créations d'applications mobiles sur Android. 
-Je peux réaliser des projets assez complexes en utilisant Android Studio.
-
+ - Je maitrise les langages informatiques utilisés pour les sites web ( HTML  / CSS  / JS  )
 
 # Mes projets
 Disponible sur https://enertix.me/projects 🧡
