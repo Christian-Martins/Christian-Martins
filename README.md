@@ -22,7 +22,7 @@
 Disponible sur https://enertix.me/projects 🧡
 
 <h2>📞 Me contacter</h2>
-[![Twitter](https://img.shields.io/badge/Enertix%20-%231DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/enertix)
+<img src="https://img.shields.io/badge/-Enertix%20-%231DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white">
 <img src="https://img.shields.io/badge/@Enertix%234665%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enertix.pro@gmail.com)
