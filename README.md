@@ -1,8 +1,6 @@
 # Bonjour! 👋
 <p align="center">
   Je suis <b>Enertix</b>, je suis francophone et je suis un p'tit développeur <strong>back/front end</strong>!
-  
-  [![On aime les stats nous](https://github-readme-stats.vercel.app/api?username=Christian-Martins&theme=midnight-purple&count_private=true)](#)
 </p>
 <h2 align="center">🎨 Les langages axés Front-End que je maitrise</h2>
 <p align="center">
