@@ -19,7 +19,8 @@
 
 <div align="center">
 <h2 align="center">📖 Mes projets</h2>
-Disponible sur https://enertix.me/projects 🧡
+[![SiteWeb](https://img.shields.io/static/v1?&label=Disponible&message=SUR_ENERTIX.ME&color=blue?&style=for-the-badge)](https://enertix.me)
+
 
 <h2>📞 Me contacter</h2>
 
@@ -27,6 +28,6 @@ Disponible sur https://enertix.me/projects 🧡
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enertix.pro@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Enertix%20-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/enertix/)
-[![SiteWeb](https://img.shields.io/static/v1?&label=Site&message=ENERTIX.ME&color=blue?&style=for-the-badge&logo=internetexplorer)](https://enertix.me)
+[![SiteWeb](https://img.shields.io/static/v1?&label=Site&message=ENERTIX.ME&color=blue?&style=for-the-badge)](https://enertix.me)
 
 # À Bientôt!
