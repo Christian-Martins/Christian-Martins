@@ -9,7 +9,7 @@ Je suis **Enertix**, je suis francophone et je suis un p'tit développeur __back
 - 💕 J'aime en ce moment développer `sur UE4 et JS`
 
 # Mes compétences 💫
- ![](https://i.imgur.com/lbz51f9.png)
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 - J'utilise et maitrise NodeJS.
 Je peux réaliser des projets complexes avec NodeJS.
 Je peux également créer des robots sur les réseaux sociaux en utilisant NodeJS.
