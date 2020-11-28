@@ -17,11 +17,12 @@
   <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-
-# Mes projets
+<div align="center">
+<h2 align="center">Mes projets</h2>
 Disponible sur https://enertix.me/projects 🧡
 
 # Me contacter
 Disponible sur https://enertix.me 💚
 
 ## À Bientôt!
+</div>
