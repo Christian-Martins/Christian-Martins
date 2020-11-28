@@ -23,6 +23,6 @@ Disponible sur https://enertix.me/projects 🧡
 
 <h2 align="center">📞 Me contacter</h2>
 Disponible sur https://enertix.me 💚
+</div>
 
 # À Bientôt!
-</div>
