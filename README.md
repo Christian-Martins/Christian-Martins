@@ -5,7 +5,7 @@ Je suis **Enertix**, je suis francophone et je suis un p'tit développeur __back
 
 ### Voici quelques informations sur mes projets et moi même!
 - 🔨 Je suis actuellement entrain de travailler sur: `DreamNetwork`
-- 📚 Je suis entrain `d'appronfidir mes compétences en` <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> `(NodeJS)`
+- 📚 Je suis entrain `d'appronfidir mes compétences en` <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />`(NodeJS)`
 - 💕 J'aime en ce moment développer <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 # Mes compétences 💫
