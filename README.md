@@ -18,11 +18,11 @@
 </p>
 
 <div align="center">
-<h2 align="center">Mes projets</h2>
+<h2 align="center">📖 Mes projets</h2>
 Disponible sur https://enertix.me/projects 🧡
 
-# Me contacter
+<h2 align="center">📞 Me contacter</h2>
 Disponible sur https://enertix.me 💚
 
-## À Bientôt!
+# À Bientôt!
 </div>
