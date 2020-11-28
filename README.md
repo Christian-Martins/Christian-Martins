@@ -1,5 +1,6 @@
 # Bonjour! 👋
 Je suis **Enertix**, je suis francophone et je suis un p'tit développeur __back-end__!
+[![On aime les stats nous](https://github-readme-stats.vercel.app/api?username=Christian-Martins&theme=midnight-purple&count_private=true)](#)
 
 ### Voici quelques informations sur mes projets et moi même!
 - 🔨 Je suis actuellement entrain de travailler sur: `DreamNetwork`
