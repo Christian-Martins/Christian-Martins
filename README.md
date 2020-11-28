@@ -21,7 +21,7 @@
 <h2 align="center">📖 Mes projets</h2>
 Disponible sur https://enertix.me/projects 🧡
 
-<h2 align="center">📞 Me contacter</h2>
+<h2>📞 Me contacter</h2>
 Disponible sur https://enertix.me 💚
 </div>
 
