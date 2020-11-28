@@ -23,6 +23,7 @@ Disponible sur https://enertix.me/projects 🧡
 
 <h2>📞 Me contacter</h2>
 <img src="https://img.shields.io/badge/Enertix%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white">
+<img src="https://img.shields.io/badge/%3Enertix#0001%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
 
 # À Bientôt!
