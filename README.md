@@ -19,7 +19,8 @@
 
 <div align="center">
 <h2 align="center">📖 Mes projets</h2>
-[![SiteWeb](https://img.shields.io/static/v1?&label=Disponible&message=SUR_ENERTIX.ME&color=blue?&style=for-the-badge)](https://enertix.me)
+  
+[![SiteWeb](https://img.shields.io/static/v1?&label=Projets&message=ENERTIX.ME&color=green?&style=for-the-badge)](https://enertix.me/projects)
 
 
 <h2>📞 Me contacter</h2>
