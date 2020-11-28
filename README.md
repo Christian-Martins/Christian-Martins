@@ -1,4 +1,4 @@
-# Bonjour! 👋
+<h1 align="center">Bonjour! 👋</h1
 <p align="center">
   Je suis <b>Enertix</b>, je suis francophone et je suis un p'tit développeur <strong>back/front end</strong>!
 </p>
