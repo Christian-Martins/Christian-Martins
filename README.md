@@ -2,6 +2,7 @@
 <p align="center">
   Je suis <b>Enertix</b>, je suis francophone et je suis un p'tit développeur <strong>back/front end</strong>!
 </p>
+<p align="center"><img src="https://metrics.lecoq.io/Christian-Martins?template=classic&amp;pagespeed=1&amp;isocalendar=1&amp;languages=1&amp;pagespeed.detailed=false&amp;pagespeed.screenshot=false&amp;isocalendar.duration=half-year&amp;config.timezone=Europe%2FParis" alt="Metrics"></p>
 <h2 align="center">🎨 Les langages/outils axés Front-End que je maitrise</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -24,11 +25,14 @@ Disponible sur [enertix.me](https://enertix.me/projects) 🧡
 
 <h2>📞 Me contacter</h2>
 
+<p align="center">
 <img src="https://img.shields.io/badge/@Enertix%234665%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enertix.pro@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Enertix%20-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/enertix/)
 [![SiteWeb](https://img.shields.io/static/v1?&label=Site&message=ENERTIX.ME&color=blue?&style=for-the-badge)](https://enertix.me)
+
+</p>
 </div>
 
 # À Bientôt!
