@@ -22,7 +22,7 @@
 <div align="center">
 <h2 align="center">📖 Mes projets</h2>
   
-Disponible sur [enertix.me](https://enertix.me/projects) 🧡
+Disponible sur [enertix.me](https://enertix.me/exp.html) 🧡
 
 <h2>📞 Me contacter</h2>
 
