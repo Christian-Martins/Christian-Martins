@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour! 👋</h1>
 <p align="center">
-  <img src="https://i.imgur.com/KTouny1.png">
+  <img src="https://i.imgur.com/KTouny1.png" align="center">
 </p>
 <p align="center"><img src="https://metrics.lecoq.io/Christian-Martins?template=classic&amp;pagespeed=1&amp;isocalendar=1&amp;languages=1&amp;pagespeed.detailed=false&amp;pagespeed.screenshot=false&amp;isocalendar.duration=half-year&amp;config.timezone=Europe%2FParis" alt="Metrics"></p>
 <h2 align="center">🎨 Les langages/outils axés Front-End que je maitrise</h2>
