@@ -2,8 +2,10 @@
 <p align="center">
   <img src="https://i.imgur.com/KTouny1.png" align="center">
 </p>
+<br/>
+<h2 align="center">Stats</h2>
 <p align="center"><img src="https://metrics.lecoq.io/Christian-Martins?template=classic&amp;pagespeed=1&amp;isocalendar=1&amp;languages=1&amp;pagespeed.detailed=false&amp;pagespeed.screenshot=false&amp;isocalendar.duration=half-year&amp;config.timezone=Europe%2FParis" alt="Metrics"></p>
-<h2 align="center">🎨 Les langages/outils axés Front-End que je maitrise</h2>
+<h2 align="center">🎨 Front-End</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -11,7 +13,7 @@
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
-<h2 align="center">💻 Les langages/outils axés Back-End que je maitrise</h2>
+<h2 align="center">💻 Back-End</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
@@ -20,11 +22,11 @@
 </p>
 
 <div align="center">
-<h2 align="center">📖 Mes projets</h2>
+<h2 align="center">📖 My projects</h2>
   
-Disponible sur [enertix.me](https://enertix.me/exp.html) 🧡
+Available on [enertix.me](https://enertix.me/exp.html) 🧡
 
-<h2>📞 Me contacter</h2>
+<h2>📞 Contact me</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/@Enertix%230001%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
