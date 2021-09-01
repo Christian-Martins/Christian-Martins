@@ -28,3 +28,6 @@ set_real_ip_from 2a06:98c0::/29;
 real_ip_header CF-Connecting-IP;" >> /etc/nginx/conf.d/cloudflare
 
 echo "include /etc/nginx/conf.d/cloudflare;" >> /etc/nginx/nginx.conf
+
+systemctl restart nginx
+echo "success to add Cloudflare ips in Nginx"
