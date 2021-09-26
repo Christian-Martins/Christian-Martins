@@ -24,11 +24,14 @@
 <h2 align="center">📖 My projects</h2>
   
 Projets principaux:
+- Dyjix
 - DreamNetwork
-- CumulusCloud
 - ChilledBot
 - UtyBot
 + Freelance (missions)
+
+Anciens projets dont j'ai participé:
+- CumulusCloud
 
 <h2>📞 Contact me</h2>
 
