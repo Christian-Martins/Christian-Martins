@@ -26,8 +26,6 @@
 Projets principaux:
 - Dyjix
 - DreamNetwork
-- ChilledBot
-- UtyBot
 + Freelance (missions)
 
 Anciens projets dont j'ai participé:
